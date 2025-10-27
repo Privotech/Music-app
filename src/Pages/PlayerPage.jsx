@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import Player from "../components/Player.jsx";
+import Player from "../Components/Player.jsx";
 import { songs } from "../data/songs.js";
 
 const PlayerPage = () => {
