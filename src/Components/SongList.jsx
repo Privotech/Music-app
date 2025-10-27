@@ -1,5 +1,5 @@
 import React from "react";
-import SongCard from "../Components/SongCard.jsx";
+import SongCard from "./SongCard.jsx";
 
 const SongList = ({ songs, onSelectSong }) => {
   return (

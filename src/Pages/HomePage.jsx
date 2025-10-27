@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import SongList from "../components/SongList.jsx";
+import SongList from "../Components/SongList.jsx";
 import { songs } from "../data/songs.js";
 import Player from "../Components/Player.jsx";
 
